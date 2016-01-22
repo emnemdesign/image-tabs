@@ -25,11 +25,11 @@ body {
 	position: absolute;
 	padding-top: 54.5%;
 	text-align: center;
-	width: 100%; /*optional*/
+	width: 100%; 
 
 }
 img{
-	width: 100%; /*optional*/
+	width: 100%; 
 }
 .tabs > li {
 	display: inline-block;
