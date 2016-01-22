@@ -28,9 +28,10 @@ body {
 	width: 100%; 
 
 }
-img{
+img {
 	width: 100%; 
 }
+
 .tabs > li {
 	display: inline-block;
 }
@@ -45,6 +46,7 @@ img{
 	transition: all 50ms linear;
 	position: relative;
 }
+
 .tabs a:hover {
 	background-color: lightgrey;
 	border: 2px solid lightgrey;
